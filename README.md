@@ -1,4 +1,4 @@
-Premake extension to support [cmake](http://www.cmake.org/)
+[Premake](https://github.com/premake/premake-core) extension to support [cmake](http://www.cmake.org/)
 
 ### Features ###
 
