@@ -1,8 +1,9 @@
-[Premake](https://github.com/premake/premake-core) extension to support [cmake](http://www.cmake.org/)
+[Premake](https://github.com/premake/premake-core) extension for supporting [cmake](http://www.cmake.org/) cmake
 
 ### Features ###
 
 * Support for C/C++ language projects
+* Work in progress
 
 ### Install ###
 In your project directory:
@@ -20,4 +21,4 @@ Simply generate your project using the `cmake` action:
 ```bash
 premake5 cmake
 ```
-and open the generated project file in cmake.
+
